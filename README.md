@@ -40,14 +40,12 @@
 
 <br clear="both">
 
-<div align="left">
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=EmirhanHasirci11&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/EmirhanHasirci11/EmirhanHasirci11/blob/output/snake.svg" alt="Snake animation" />
 
 ###
