@@ -1,6 +1,7 @@
 <h1 align="center">Hello there 👋 I'm Emirhan</h1>
 
 <h2 align="center"> :computer: Full Stack Developer</h2>
+<h2 align="center"> 🎮: Indie Game Developer</h2>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/emirhanhasirci/" target="_blank">
