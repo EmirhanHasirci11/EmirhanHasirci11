@@ -1,8 +1,8 @@
 <h1 align="center">Hello there 👋 I'm Emirhan</h1>
 
-<h2 align="center"> :computer: Full Stack Developer</h2>
-<h2 align="center"> 🎮Indie Game Developer </h2>
-
+<h3 align="center"> :computer: Full Stack Developer</h3>
+<h3 align="center"> 🎮Indie Game Developer </h3>
+<h3 align="center"> 🤖 Data Engineer & AI Tutor </h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/emirhanhasirci/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -20,8 +20,13 @@
 ###
 
 <div align="center">
-  <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" width="75" alt="csharp logo"  />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" height="70" alt="google cloud logo" />
+
+  <img height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="75" alt="java logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="60" width="75" alt="dot-net logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="60" width="75" alt="dotnetcore logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="60" width="75" alt="docker logo"  />
@@ -29,6 +34,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" width="75" alt="postgresql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="60" width="75" alt="angularjs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="60" width="75" alt="firebase logo"  />
+  <img height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" width="75" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" width="75" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" width="75" alt="bootstrap logo"  />
@@ -42,6 +48,8 @@
   <img src="https://cdn.simpleicons.org/rabbitmq/FF6600" style="margin:10px" height="50" alt="rabbitmq logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="60" width="75" alt="unity logo"  />
     <a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" /></a>  
+    
+  <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
 <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" /></a>  
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
